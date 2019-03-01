@@ -33,13 +33,13 @@ get_header(); ?>
 
             <?php the_content(); ?>
 
-			      <p><a href="<?php echo $link; ?>">Site Link</a></p>
+			      <p><strong><a href="<?php echo $link; ?>">Site Link</a><strong></p>
        </aside>
 
        <div class="case-study-images">
-				   <img src=<"<?php echo $image_1; ?>" />
-					 <img src=<"<?php echo $image_2; ?>" />
-					 <img src=<"<?php echo $image_3; ?>" />
+				   <img src="<?php echo $image_1; ?>" />
+					 <img src="<?php echo $image_2; ?>" />
+					 <img src="<?php echo $image_3; ?>" />
 
 
 </div>
