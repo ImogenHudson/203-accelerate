@@ -48,7 +48,7 @@ blog-post h3 {
 	text-transform: uppercase;
 }
 
-
+/* Case studies */
 
 aside.case-study-sidebar {
 	float: left;
@@ -57,5 +57,5 @@ aside.case-study-sidebar {
 
 div.case-study-images {
 	float: left;
-	width: 900px;
+	width: 600px;
 }
